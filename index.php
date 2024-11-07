@@ -10,11 +10,9 @@ $obj = new Dongdt();
 $cart = new Cart();
 ?>
 
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+<!--A Design by thuhuong.fpt
+Author: thuhuong.fpt
+
 -->
 <!DOCTYPE HTML>
 <head>
@@ -282,7 +280,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				
 				<figure class="content_figure">
 					<span class="slogan">Oppo F1 Plus</span>
-					<strong6.490.000 ₫</strong>
+					<strong>6.490.000 ₫</strong>
 					<div class="promotion">
 						<span>   Cơ hội trúng tiền mặt 50 triệu hoặc Tivi Panasonic 55.</span>
 					</div>	
